@@ -3,8 +3,8 @@ const Colors = {
   PRIMARY_COLOR: '#ffffff',
   BLACK: '#000000',
   SECONDARY_COLOR: '#3498db',
-  BACKGROUND_COLOR: '#ecf0f1',
-  TEXT_COLOR: '#34495e'
+  BACKGROUND_COLOR: '#e6e6e6',
+  TEXT_COLOR: '#34495e',
 }
 
 export default Colors;
